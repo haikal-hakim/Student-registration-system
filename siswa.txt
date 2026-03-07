@@ -1,0 +1,16 @@
+Muhammad Haikal Hakim;99;Teknik Informatika
+Faisal;96;Akfil
+Adit;89;Tknik Energi
+Dede Rohimin;89;Teknik industri
+Rifan;88;Ilkom
+Fajar;87;Akfil
+Imam Sa'ban;86;Perbandingan Agama
+Hamzah Sidiq;85;Teknik Energi
+Adit;79;Desain Grafis
+Wagyu;79;Teknik Industri
+Elpaso;77;Teknik
+Fadilah;74;Manajemen
+Alex;69;Informatika
+Spiderman;67;Marketing
+Abdul;67;Teknik Industri
+Denis;50;Teknik Marketing
