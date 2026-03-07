@@ -14,4 +14,4 @@ A Java desktop application for managing new student registrations.
 - File Handling
 
 ## Author
-Haikal Hakim
+Muhammad Haikal Hakim
